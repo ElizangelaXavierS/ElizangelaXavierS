@@ -1,4 +1,4 @@
-## Olá eu sou a Elizangela Xavier, Desenvolvedora!💻💕
+## Olá eu sou a Elizangela Xavier!💻💕
 
 <div align="center">
   <a href="https://github.com/ElizangelaXavierS">
