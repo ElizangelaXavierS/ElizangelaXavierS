@@ -23,6 +23,13 @@
    <a href = "elizangelaxavier913@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<details>
+ <summary><h3> 👩‍💻💕Sobre mim</h3></summary>
+Tenho formação técnica em administração e estou em processo de transição de carreira da área do comércio, onde adquiri habilidades soft skills, como comunicação, adaptabilidade, trabalho em equipe e persistência.
+  
+Comecei meus estudos na área de tecnologia com HTML, CSS e JavaScript e, atualmente, estou cursando o bootcamp de pessoa desenvolvedora full stack Java oferecido pela Generation Brasil. Essa experiência me proporcionou meu primeiro contato com o back-end. Ao longo do programa, também desenvolvi hard skills em Spring Boot com Java, MySQL, Docker, TypeScript com React, Git, GitHub e metodologia ágil Scrum.
+
+Além disso, estou cursando tecnólogo em análise e desenvolvimento de sistemas, o que me permitirá adquirir habilidades e conhecimentos para me destacar na área. Estou animada com as possibilidades que a tecnologia oferece e comprometida em continuar aprendendo e evoluindo.
 
 
 
